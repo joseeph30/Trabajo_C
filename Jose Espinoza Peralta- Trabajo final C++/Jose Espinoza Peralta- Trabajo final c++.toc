@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}El método de Newton- Función variable real}{2}{}%
+\contentsline {section}{\numberline {2}Sistemas de ecuaciones no lineales}{2}{}%
+\contentsline {section}{\numberline {3}El método de Newton- Función varias variables}{2}{}%
+\contentsline {section}{\numberline {4}El método de Newton- Sistema 2 ecuaciones}{3}{}%
+\contentsline {section}{\numberline {5}Algoritmo- Método de Newton}{4}{}%
+\contentsline {section}{\numberline {6}Diagrama de flujo - Método de Newton}{4}{}%
+\contentsline {section}{\numberline {7}Código C++}{5}{}%
+\contentsline {section}{\numberline {8}Resultados}{6}{}%
+\contentsline {section}{\numberline {9}ANEXOS}{7}{}%
